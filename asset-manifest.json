@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rentaldoctorswebsite/static/css/main.61664977.css",
+    "main.js": "/rentaldoctorswebsite/static/js/main.db1c1110.js",
+    "static/js/787.d0bda44a.chunk.js": "/rentaldoctorswebsite/static/js/787.d0bda44a.chunk.js",
+    "static/media/team.jpg": "/rentaldoctorswebsite/static/media/team.18945f3942b8d7ff2b74.jpg",
+    "static/media/experience.jpg": "/rentaldoctorswebsite/static/media/experience.2542894148d4e907491f.jpg",
+    "static/media/communication.jpg": "/rentaldoctorswebsite/static/media/communication.f04d216299e13e79fcda.jpg",
+    "static/media/worker.jpg": "/rentaldoctorswebsite/static/media/worker.d69c0272e0f3bce2f442.jpg",
+    "static/media/services.jpg": "/rentaldoctorswebsite/static/media/services.f871273aa04cc16025e5.jpg",
+    "static/media/lawyer.jpg": "/rentaldoctorswebsite/static/media/lawyer.eeba2b3e2a074939b096.jpg",
+    "static/media/logo.png": "/rentaldoctorswebsite/static/media/logo.ea3f82863a6750bfd29f.png",
+    "index.html": "/rentaldoctorswebsite/index.html",
+    "main.61664977.css.map": "/rentaldoctorswebsite/static/css/main.61664977.css.map",
+    "main.db1c1110.js.map": "/rentaldoctorswebsite/static/js/main.db1c1110.js.map",
+    "787.d0bda44a.chunk.js.map": "/rentaldoctorswebsite/static/js/787.d0bda44a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61664977.css",
+    "static/js/main.db1c1110.js"
+  ]
+}
